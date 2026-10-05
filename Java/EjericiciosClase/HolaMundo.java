@@ -1,9 +1,9 @@
 public class HolaMundo {
   public static void main(String[] args) {
     System.out.println("Vamos a sumar dos numeros");
-    int resultado = addNumbers(10, 5);
+    int result = addNumbers(10, 5);
     System.out.print("El resultado es: ");
-    System.out.println(resultado);
+    System.out.println(result);
   }
 
   // No explicado por ahora
