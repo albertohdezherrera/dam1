@@ -1,0 +1,15 @@
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/ParaCasa/Ejercicio1/bin/Debug/net10.0/Ejercicio1
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/ParaCasa/Ejercicio1/bin/Debug/net10.0/Ejercicio1.deps.json
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/ParaCasa/Ejercicio1/bin/Debug/net10.0/Ejercicio1.runtimeconfig.json
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/ParaCasa/Ejercicio1/bin/Debug/net10.0/Ejercicio1.dll
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/ParaCasa/Ejercicio1/bin/Debug/net10.0/Ejercicio1.pdb
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/ParaCasa/Ejercicio1/obj/Debug/net10.0/Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/ParaCasa/Ejercicio1/obj/Debug/net10.0/Ejercicio1.AssemblyInfoInputs.cache
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/ParaCasa/Ejercicio1/obj/Debug/net10.0/Ejercicio1.AssemblyInfo.cs
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/ParaCasa/Ejercicio1/obj/Debug/net10.0/Ejercicio1.csproj.CoreCompileInputs.cache
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/ParaCasa/Ejercicio1/obj/Debug/net10.0/Ejercicio1.sourcelink.json
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/ParaCasa/Ejercicio1/obj/Debug/net10.0/Ejercicio1.dll
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/ParaCasa/Ejercicio1/obj/Debug/net10.0/refint/Ejercicio1.dll
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/ParaCasa/Ejercicio1/obj/Debug/net10.0/Ejercicio1.pdb
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/ParaCasa/Ejercicio1/obj/Debug/net10.0/Ejercicio1.genruntimeconfig.cache
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/ParaCasa/Ejercicio1/obj/Debug/net10.0/ref/Ejercicio1.dll

@@ -1,0 +1,15 @@
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/HolaMundo/bin/Debug/net10.0/HolaMundo
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/HolaMundo/bin/Debug/net10.0/HolaMundo.deps.json
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/HolaMundo/bin/Debug/net10.0/HolaMundo.runtimeconfig.json
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/HolaMundo/bin/Debug/net10.0/HolaMundo.dll
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/HolaMundo/bin/Debug/net10.0/HolaMundo.pdb
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/HolaMundo/obj/Debug/net10.0/HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/HolaMundo/obj/Debug/net10.0/HolaMundo.AssemblyInfoInputs.cache
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/HolaMundo/obj/Debug/net10.0/HolaMundo.AssemblyInfo.cs
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/HolaMundo/obj/Debug/net10.0/HolaMundo.csproj.CoreCompileInputs.cache
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/HolaMundo/obj/Debug/net10.0/HolaMundo.sourcelink.json
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/HolaMundo/obj/Debug/net10.0/HolaMundo.dll
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/HolaMundo/obj/Debug/net10.0/refint/HolaMundo.dll
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/HolaMundo/obj/Debug/net10.0/HolaMundo.pdb
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/HolaMundo/obj/Debug/net10.0/HolaMundo.genruntimeconfig.cache
+/Users/alberto.hernandez/CODE/DAM 1/FundamentosProgramacion/Clase02/HolaMundo/obj/Debug/net10.0/ref/HolaMundo.dll
