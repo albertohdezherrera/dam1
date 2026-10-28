@@ -1,17 +1,87 @@
-# Archivos generados por .NET
+# ===== .NET / C# =====
 bin/
 obj/
-
-# Visual Studio
-.vs/
+[Dd]ebug/
+[Rr]elease/
+publish/
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
+*.userprefs
+*.nupkg
+*.snupkg
+project.lock.json
+TestResults/
+*.log
+.vs/
 
-# Rider
+# ===== Java =====
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+out/
+target/
+build/
+.gradle/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.factorypath
+.apt_generated/
+
+# ===== HTML / Web =====
+node_modules/
+dist/
+.cache/
+.parcel-cache/
+npm-debug.log*
+yarn-error.log*
+.env
+.env.*
+!.env.example
+
+# ===== Bases de datos =====
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+*.mdb
+*.accdb
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.dump
+*.sql.gz
+*.frm
+*.ibd
+*.myd
+*.myi
+
+# ===== IDEs / Editores =====
 .idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.swp
+*.swo
+*~
 
-# Archivos del sistema
+# ===== Sistema operativo =====
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
 Thumbs.db
+ehthumbs.db
+Desktop.ini
